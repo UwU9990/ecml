@@ -334,5 +334,12 @@
         "guild": "JUNK's server",
         "channel": "hacked-ppl",
         "message": "Error generating or sending code: too many values to unpack (expected 2)"
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "JUNK's server",
+        "channel": "hacked-ppl",
+        "message": "!generate_code make a html script that says Hello, world"
     }
 ]
