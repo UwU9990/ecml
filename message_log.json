@@ -866,5 +866,12 @@
         "guild": "JUNK's server",
         "channel": "general",
         "message": ""
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "JUNK's server",
+        "channel": "general",
+        "message": "<@439951672744083478>"
     }
 ]
