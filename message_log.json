@@ -152,5 +152,12 @@
         "guild": "JUNK's server",
         "channel": "hacked-ppl",
         "message": "```\n!grief\n\nAttempts to grief a server by changing nicknames of all members.\n\nArguments:\n  server_id No description given\n```"
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "JUNK's server",
+        "channel": "hacked-ppl",
+        "message": "!grief 1312536420086317118"
     }
 ]
