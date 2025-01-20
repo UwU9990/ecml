@@ -509,5 +509,12 @@
         "guild": "JUNK's server",
         "channel": "hacked-ppl",
         "message": "You are not in a voice channel."
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "JUNK's server",
+        "channel": "hacked-ppl",
+        "message": "!play_audio <https://www.youtube.com/watch?v=2jPmJShS4jY>"
     }
 ]
