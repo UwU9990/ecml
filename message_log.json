@@ -614,5 +614,12 @@
         "guild": "test server",
         "channel": "general",
         "message": ""
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "JUNK's server",
+        "channel": "General",
+        "message": "!stalk_voice 1122480522866720869 1312536420086317118"
     }
 ]
