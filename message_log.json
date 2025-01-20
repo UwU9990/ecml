@@ -782,5 +782,12 @@
         "guild": "JUNK's server",
         "channel": "General",
         "message": "Audio Stopped"
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "JUNK's server",
+        "channel": "General",
+        "message": "!stop_audio"
     }
 ]
