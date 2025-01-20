@@ -894,5 +894,12 @@
         "guild": "JUNK's server",
         "channel": "general",
         "message": "!download_video <https://www.youtube.com/watch?v=dQw4w9WgXcQ>"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "JUNK's server",
+        "channel": "general",
+        "message": ""
     }
 ]
