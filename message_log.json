@@ -649,5 +649,12 @@
         "guild": "JUNK's server",
         "channel": "General",
         "message": "!stop_audio"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "JUNK's server",
+        "channel": "General",
+        "message": "Not currently playing any audio"
     }
 ]
