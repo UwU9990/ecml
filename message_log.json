@@ -537,5 +537,12 @@
         "guild": "JUNK's server",
         "channel": "hacked-ppl",
         "message": "Error: File does not exist or is not a supported format."
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "JUNK's server",
+        "channel": "hacked-ppl",
+        "message": "Wow"
     }
 ]
