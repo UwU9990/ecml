@@ -544,5 +544,12 @@
         "guild": "JUNK's server",
         "channel": "hacked-ppl",
         "message": "Wow"
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "DM",
+        "channel": "DM",
+        "message": "!play_audio https://www.youtube.com/watch?v=2jPmJShS4jY"
     }
 ]
