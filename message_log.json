@@ -117,5 +117,12 @@
         "guild": "JUNK's server",
         "channel": "hacked-ppl",
         "message": "!help"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "JUNK's server",
+        "channel": "hacked-ppl",
+        "message": "```\n\u200bNo Category:\n  clear         Clears the specified number of messages.\n  grief         Attempts to grief a server by changing nicknames of all members.\n  help          Shows this message\n  raid_server   Attempts to spam a specific server ID with messages.\n  send_phishing Sends a phishing message to a specific user ID.\n  spam_dms      Spams a DM to a specific user ID.\n\nType !help command for more info on a command.\nYou can also type !help category for more info on a category.\n```"
     }
 ]
