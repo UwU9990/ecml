@@ -40,5 +40,12 @@
         "guild": "DM",
         "channel": "DM",
         "message": "\ud83d\udc80"
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "DM",
+        "channel": "DM",
+        "message": "!send_phishing 439951672744083478 JOIN MY SERVER TODAY https:// scamfakediscord.com <---------- OMG"
     }
 ]
