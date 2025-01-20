@@ -292,5 +292,12 @@
         "guild": "JUNK's server",
         "channel": "hacked-ppl",
         "message": "Testing time"
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "JUNK's server",
+        "channel": "hacked-ppl",
+        "message": "!generate_code make a hello,world script in html"
     }
 ]
