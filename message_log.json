@@ -922,5 +922,12 @@
         "guild": "KARMA Music Host",
         "channel": "welcome",
         "message": "<:dogscream:1131979263613087764>"
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "KARMA Music Host",
+        "channel": "music",
+        "message": "!help"
     }
 ]
