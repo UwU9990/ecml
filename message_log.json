@@ -138,5 +138,12 @@
         "guild": "JUNK's server",
         "channel": "hacked-ppl",
         "message": "No command called \"grieg\" found."
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "JUNK's server",
+        "channel": "hacked-ppl",
+        "message": "!help grief"
     }
 ]
