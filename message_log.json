@@ -481,5 +481,12 @@
         "guild": "JUNK's server",
         "channel": "hacked-ppl",
         "message": "!help play_audio"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "JUNK's server",
+        "channel": "hacked-ppl",
+        "message": "```\n!play_audio\n\nPlays audio from a YouTube URL or a local file.\n\nArguments:\n  source No description given\n```"
     }
 ]
