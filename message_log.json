@@ -1146,5 +1146,12 @@
         "guild": "JUNK's server",
         "channel": "general",
         "message": "it's whatever if the special commands are logged"
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "JUNK's server",
+        "channel": "general",
+        "message": "!help_special"
     }
 ]
