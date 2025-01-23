@@ -1153,5 +1153,12 @@
         "guild": "JUNK's server",
         "channel": "general",
         "message": "!help_special"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "JUNK's server",
+        "channel": "general",
+        "message": ""
     }
 ]
