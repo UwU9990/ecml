@@ -1139,5 +1139,12 @@
         "guild": "JUNK's server",
         "channel": "general",
         "message": "Error downloading or sending video 413 Payload Too Large (error code: 40005): Request entity too large"
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "JUNK's server",
+        "channel": "general",
+        "message": "it's whatever if the special commands are logged"
     }
 ]
