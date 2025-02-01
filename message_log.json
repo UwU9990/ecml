@@ -1209,5 +1209,12 @@
         "guild": "DM",
         "channel": "DM",
         "message": "Error downloading or sending video \u001b[0;31mERROR:\u001b[0m [youtube] sx_ln19ZJHw: Join this channel to get access to members-only content like this video, and other exclusive perks."
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "DM",
+        "channel": "DM",
+        "message": "\u001b[0;31mERROR:\u001b[0m \\"
     }
 ]
