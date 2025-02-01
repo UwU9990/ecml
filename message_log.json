@@ -1237,5 +1237,12 @@
         "guild": "DM",
         "channel": "DM",
         "message": "sdsdsd"
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "DM",
+        "channel": "DM",
+        "message": "\u001b[0m"
     }
 ]
