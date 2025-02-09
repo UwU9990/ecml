@@ -1475,5 +1475,12 @@
         "guild": "Random Car Game",
         "channel": "roles",
         "message": "External emojis don't work"
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "Random Car Game",
+        "channel": "roles",
+        "message": "!setuprole <@&1338009187481030747> \ud83d\udc4e"
     }
 ]
