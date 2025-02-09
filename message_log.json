@@ -1566,5 +1566,12 @@
         "guild": "JUNK's server",
         "channel": "hacked-ppl",
         "message": "Can't spell?"
+    },
+    {
+        "user": "junkxzl",
+        "user_id": 439951672744083478,
+        "guild": "DM",
+        "channel": "DM",
+        "message": "Erm"
     }
 ]
