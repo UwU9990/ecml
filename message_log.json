@@ -1391,5 +1391,12 @@
         "guild": "Random Car Game",
         "channel": "roles",
         "message": "Well I used the same emoji"
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "Random Car Game",
+        "channel": "roles",
+        "message": "!setuprole <@&1338009187481030747> <a:Loading:1290964205070979126>  <@&1338009202253369374> <a:mlady:1330716019362369558>"
     }
 ]
