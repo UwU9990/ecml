@@ -1461,5 +1461,12 @@
         "guild": "Random Car Game",
         "channel": "roles",
         "message": ""
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "Random Car Game",
+        "channel": "roles",
+        "message": "Role selection message set up."
     }
 ]
