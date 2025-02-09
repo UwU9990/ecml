@@ -1503,5 +1503,12 @@
         "guild": "Random Car Game",
         "channel": "ost",
         "message": "# The Original SoundTrack of Random Car Game!!!"
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "Random Car Game",
+        "channel": "ost",
+        "message": "Just to say the music is looped in game a few times that's why they loop perfectly"
     }
 ]
