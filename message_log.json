@@ -1419,5 +1419,12 @@
         "guild": "Random Car Game",
         "channel": "roles",
         "message": "Maybe animated emojies don't work"
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "Random Car Game",
+        "channel": "roles",
+        "message": "!setuprole <@&1338009202253369374>"
     }
 ]
