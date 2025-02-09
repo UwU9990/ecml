@@ -1510,5 +1510,12 @@
         "guild": "Random Car Game",
         "channel": "ost",
         "message": "Just to say the music is looped in game a few times that's why they loop perfectly"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "DM",
+        "channel": "DM",
+        "message": "Hello! I'm a bot, and I'm trying to connect with you.  Consider this a friend request?"
     }
 ]
