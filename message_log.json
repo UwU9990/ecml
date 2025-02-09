@@ -1482,5 +1482,12 @@
         "guild": "Random Car Game",
         "channel": "roles",
         "message": "!setuprole <@&1338009187481030747> \ud83d\udc4e"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "Random Car Game",
+        "channel": "roles",
+        "message": ""
     }
 ]
