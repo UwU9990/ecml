@@ -2,5 +2,17 @@
     "Man in red": {
         "role_id": 1337979809690554470,
         "emoji": "\ud83d\udd34"
+    },
+    "just": {
+        "role_id": 1338009165515460688,
+        "emoji": "\ud83d\udc80"
+    },
+    "a": {
+        "role_id": 1338009187481030747,
+        "emoji": "\ud83d\udc80"
+    },
+    "example": {
+        "role_id": 1338009202253369374,
+        "emoji": "\ud83d\udc80"
     }
 }
