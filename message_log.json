@@ -1447,5 +1447,12 @@
         "guild": "Random Car Game",
         "channel": "roles",
         "message": "Yeah"
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "Random Car Game",
+        "channel": "roles",
+        "message": "!setuprole <@&1338009187481030747> <:thumbsup:1330676205984157808>"
     }
 ]
