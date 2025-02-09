@@ -1468,5 +1468,12 @@
         "guild": "Random Car Game",
         "channel": "roles",
         "message": "Role selection message set up."
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "Random Car Game",
+        "channel": "roles",
+        "message": "External emojis don't work"
     }
 ]
