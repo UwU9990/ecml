@@ -22,5 +22,13 @@
     "Youtube suporter": {
         "role_id": 1124548284086755360,
         "emoji": "<:youtube:1340094859645550643>"
+    },
+    "Gay": {
+        "role_id": 1123724736770347058,
+        "emoji": "\ud83c\udff3\ufe0f\u200d\ud83c\udf08"
+    },
+    "Straight": {
+        "role_id": 1123728257045499924,
+        "emoji": "\ud83d\udccf"
     }
 }
