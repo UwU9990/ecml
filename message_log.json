@@ -1615,5 +1615,12 @@
         "guild": "The ORDER",
         "channel": "roles",
         "message": "!setuprole <@&1124519047187411005> [minecraft_bounce](https://cdn.discordapp.com/emojis/1340094944697778216.gif?size=48&animated=true&name=minecraft_bounce)"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "The ORDER",
+        "channel": "roles",
+        "message": ""
     }
 ]
