@@ -1755,5 +1755,12 @@
         "guild": "The ORDER",
         "channel": "roles",
         "message": "Role selection message set up."
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "The ORDER",
+        "channel": "role-perms",
+        "message": "# How to get roles:\nApprentice: be new and get verified\nFriend: be my friend\nGuard: find the secret in the docs (old) find the secret in a code (new)\nAdmin/paid: pay me for admin\nAdmin: be my family or a better friend\nDev: get confirmed that you can code or In my family or better than friend\nKing & Queen: unobtainable\nKARMA: be KARMA\nSo unfunny: be unfunny enough for me or other staff to give role\nVirgin: be a virgin\nAzbith: be Azbith\nOverseer: be a Admin or higher\n\n# What roles do\"\nApprentice: Member\nFriend: Display\nGuard: Some\nAdmin/paid: Most\nDev: All\nKing & Queen: Most\nKARMA: All\nSo unfunny: Display\nVirgin: Display\nAzbith: Owner\nOverseer: All"
     }
 ]
