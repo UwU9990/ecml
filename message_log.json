@@ -1608,5 +1608,12 @@
         "guild": "DM",
         "channel": "DM",
         "message": ""
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "The ORDER",
+        "channel": "roles",
+        "message": "!setuprole <@&1124519047187411005> [minecraft_bounce](https://cdn.discordapp.com/emojis/1340094944697778216.gif?size=48&animated=true&name=minecraft_bounce)"
     }
 ]
