@@ -1692,5 +1692,12 @@
         "guild": "The ORDER",
         "channel": "roles",
         "message": "Role selection message set up."
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "The ORDER",
+        "channel": "roles",
+        "message": "!setuprole <@&1123724736770347058> \ud83c\udff3\ufe0f\u200d\ud83c\udf08 <@&1123728257045499924> \ud83d\udccf"
     }
 ]
