@@ -1797,5 +1797,12 @@
         "guild": "The ORDER",
         "channel": "rules",
         "message": "!hiddenrole <@&1123712972745875497> [X_](https://cdn.discordapp.com/emojis/835272607372673035.webp?size=48&name=X_)"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "The ORDER",
+        "channel": "rules",
+        "message": "Error: Could not add reaction '[X_](https://cdn.discordapp.com/emojis/835272607372673035.webp?size=48&name=X_)'. Emoji might be invalid."
     }
 ]
