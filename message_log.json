@@ -1713,5 +1713,12 @@
         "guild": "The ORDER",
         "channel": "roles",
         "message": "Role selection message set up."
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "The ORDER",
+        "channel": "roles",
+        "message": "!setuprole <@&1123728388520157247> \u26a7 <@&1123728445973745724> \ud83e\udd23 <@&1123728195422781532> [Flag_bi](https://cdn.discordapp.com/emojis/1114590889180921948.webp?size=48&name=Flag_bi) <@&1330392555744919562> \u2709\ufe0f"
     }
 ]
