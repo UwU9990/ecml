@@ -1741,5 +1741,12 @@
         "guild": "The ORDER",
         "channel": "roles",
         "message": "!setuprole <@&1123728195422781532> <:Flag_bi:1340096795941933096>"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "The ORDER",
+        "channel": "roles",
+        "message": ""
     }
 ]
