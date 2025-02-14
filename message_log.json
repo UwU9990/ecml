@@ -1832,5 +1832,12 @@
         "guild": "The ORDER",
         "channel": "rules",
         "message": "!hiddenrole <@&1123712972745875497> <:checkmark:1340106724396372008>"
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "The ORDER",
+        "channel": "rules",
+        "message": "!hiddenrolemult <@&1123712972745875497> <:red_x:1340106224573743135> <:checkmark:1340106724396372008>"
     }
 ]
