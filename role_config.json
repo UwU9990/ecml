@@ -30,5 +30,21 @@
     "Straight": {
         "role_id": 1123728257045499924,
         "emoji": "\ud83d\udccf"
+    },
+    "Trans": {
+        "role_id": 1123728388520157247,
+        "emoji": "\u26a7"
+    },
+    "Funny": {
+        "role_id": 1123728445973745724,
+        "emoji": "\ud83e\udd23"
+    },
+    "Bi": {
+        "role_id": 1123728195422781532,
+        "emoji": "[Flag_bi](https://cdn.discordapp.com/emojis/1114590889180921948.webp?size=48&name=Flag_bi)"
+    },
+    "K-mail": {
+        "role_id": 1330392555744919562,
+        "emoji": "\u2709\ufe0f"
     }
 }
