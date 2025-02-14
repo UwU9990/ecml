@@ -1790,5 +1790,12 @@
         "guild": "DM",
         "channel": "DM",
         "message": "!react \ud83c\udff3\ufe0f\u200d\ud83c\udf08"
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "The ORDER",
+        "channel": "rules",
+        "message": "!hiddenrole <@&1123712972745875497> [X_](https://cdn.discordapp.com/emojis/835272607372673035.webp?size=48&name=X_)"
     }
 ]
