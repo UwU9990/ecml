@@ -18,5 +18,9 @@
     "Gamer": {
         "role_id": 1124519047187411005,
         "emoji": "<:minecraft:1340095418671038564>"
+    },
+    "Youtube suporter": {
+        "role_id": 1124548284086755360,
+        "emoji": "<:youtube:1340094859645550643>"
     }
 }
