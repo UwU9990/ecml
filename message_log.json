@@ -1629,5 +1629,12 @@
         "guild": "The ORDER",
         "channel": "roles",
         "message": "Role selection message set up."
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "The ORDER",
+        "channel": "roles",
+        "message": "Erm"
     }
 ]
