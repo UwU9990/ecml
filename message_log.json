@@ -1895,5 +1895,12 @@
         "guild": "The ORDER",
         "channel": "rules",
         "message": "Role configuration updated for message ID 1340099925823721565."
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "The ORDER",
+        "channel": "rules",
+        "message": "!react \ud83d\udfe1 \u2b55 \ud83c\udfc1 \ud83c\udff3\ufe0f\u200d\u26a7\ufe0f \u2721\ufe0f \u264b \ud83d\udfe7 \ud83c\udff3\ufe0f\u200d\ud83c\udf08 \ud83c\uddfa\ud83c\uddf2"
     }
 ]
