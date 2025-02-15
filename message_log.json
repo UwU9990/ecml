@@ -1860,5 +1860,12 @@
         "guild": "The ORDER",
         "channel": "rules",
         "message": "!sethiddenrolemult <@&1123712972745875497> <:red_x:1340106224573743135> <:checkmark:1340106724396372008>"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "The ORDER",
+        "channel": "rules",
+        "message": "Error: Invalid message ID provided. Must be an integer."
     }
 ]
