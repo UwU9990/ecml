@@ -2021,5 +2021,12 @@
         "guild": "The ORDER",
         "channel": "admin-bot-commands",
         "message": ""
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "The ORDER",
+        "channel": "admin-bot-commands",
+        "message": "Only <@1111425766622773280>, <@439951672744083478>, and <@598323926313074688> can use these commands"
     }
 ]
