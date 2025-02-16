@@ -1993,5 +1993,12 @@
         "guild": "The ORDER",
         "channel": "rules",
         "message": "<@439951672744083478> and <@598323926313074688> Have not verified (ROLES CAN BE STRIPPED 24h WARNING)"
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "The ORDER",
+        "channel": "bot-commands",
+        "message": "!help"
     }
 ]
