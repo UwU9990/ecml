@@ -2084,5 +2084,12 @@
         "guild": "The ORDER",
         "channel": "admin-bot-commands",
         "message": "!generate_code Make HTML code that makes the big bang happen in real life"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "The ORDER",
+        "channel": "admin-bot-commands",
+        "message": ""
     }
 ]
