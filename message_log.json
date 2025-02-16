@@ -2063,5 +2063,12 @@
         "guild": "The ORDER",
         "channel": "admin-bot-commands",
         "message": "Download and run and it should work greate"
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "The ORDER",
+        "channel": "admin-bot-commands",
+        "message": "!generate_code Make html code that makes a ball that bounces with really good physics that I can drag and it will freeze then when I pull it it will stretch to my mouse and when I release it will go the other direction from which I pulled it and it will even bounce off of walls using transform and stuff the ball will be played with"
     }
 ]
