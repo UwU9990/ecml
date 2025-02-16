@@ -2077,5 +2077,12 @@
         "guild": "The ORDER",
         "channel": "admin-bot-commands",
         "message": ""
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "The ORDER",
+        "channel": "admin-bot-commands",
+        "message": "!generate_code Make HTML code that makes the big bang happen in real life"
     }
 ]
