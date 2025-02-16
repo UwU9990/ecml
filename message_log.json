@@ -2042,5 +2042,12 @@
         "guild": "The ORDER",
         "channel": "admin-bot-commands",
         "message": "downloads a youtube video"
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "The ORDER",
+        "channel": "admin-bot-commands",
+        "message": "!generate_code Make html code that makes a ball that bounces with really good physics"
     }
 ]
