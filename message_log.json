@@ -2007,5 +2007,12 @@
         "guild": "The ORDER",
         "channel": "bot-commands",
         "message": ""
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "The ORDER",
+        "channel": "admin-bot-commands",
+        "message": "!help_special"
     }
 ]
