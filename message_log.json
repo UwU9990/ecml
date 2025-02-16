@@ -2112,5 +2112,12 @@
         "guild": "The ORDER",
         "channel": "to-do",
         "message": ">> Fix all social aspects"
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "The ORDER",
+        "channel": "updates",
+        "message": "# Default PfP made:\nI made a default profile picture because I want to so it doesn't look bad"
     }
 ]
