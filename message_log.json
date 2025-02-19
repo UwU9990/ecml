@@ -2140,5 +2140,12 @@
         "guild": "The ORDER",
         "channel": "updates",
         "message": "# Journals:\nAuxZen Journals will be a app on your phone or PC (no IOS) lol"
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "The ORDER",
+        "channel": "updates",
+        "message": "Allows journal sharing"
     }
 ]
