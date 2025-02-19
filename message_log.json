@@ -2126,5 +2126,12 @@
         "guild": "DM",
         "channel": "DM",
         "message": "!download_video https://www.youtube.com/watch?v=_OYjCH_rFOU"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "DM",
+        "channel": "DM",
+        "message": ""
     }
 ]
