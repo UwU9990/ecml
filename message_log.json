@@ -2245,5 +2245,12 @@
         "guild": "test server",
         "channel": "general",
         "message": ""
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "test server",
+        "channel": "general",
+        "message": "!help_special"
     }
 ]
