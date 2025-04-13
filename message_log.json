@@ -2322,5 +2322,12 @@
         "guild": "test server",
         "channel": "general",
         "message": "Error: Could not play audio: \u001b[0;31mERROR:\u001b[0m [youtube] BaDFr4MksEQ: Requested format is not available. Use --list-formats for a list of available formats"
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "test server",
+        "channel": "general",
+        "message": "!play_audio --list"
     }
 ]
