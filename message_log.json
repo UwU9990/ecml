@@ -2266,5 +2266,12 @@
         "guild": "test server",
         "channel": "general",
         "message": "!generate_code Make code for HTML that makes a monkey"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "test server",
+        "channel": "general",
+        "message": ""
     }
 ]
