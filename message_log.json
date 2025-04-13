@@ -2336,5 +2336,12 @@
         "guild": "test server",
         "channel": "general",
         "message": "Error: File does not exist or is not a supported format."
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "test server",
+        "channel": "general",
+        "message": "!play_audio https://www.youtube.com/watch?v=BaDFr4MksEQ"
     }
 ]
