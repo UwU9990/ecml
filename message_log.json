@@ -2280,5 +2280,12 @@
         "guild": "test server",
         "channel": "general",
         "message": "!play_audio"
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "test server",
+        "channel": "general",
+        "message": "!play_audio"
     }
 ]
