@@ -2217,5 +2217,12 @@
         "guild": "test server",
         "channel": "general",
         "message": "Hello"
+    },
+    {
+        "user": "kajelynn",
+        "user_id": 954199484819177533,
+        "guild": "DM",
+        "channel": "DM",
+        "message": "bruh"
     }
 ]
