@@ -2231,5 +2231,12 @@
         "guild": "test server",
         "channel": "general",
         "message": "!help"
+    },
+    {
+        "user": "MEE6",
+        "user_id": 159985870458322944,
+        "guild": "test server",
+        "channel": "general",
+        "message": ""
     }
 ]
