@@ -2329,5 +2329,12 @@
         "guild": "test server",
         "channel": "general",
         "message": "!play_audio --list"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "test server",
+        "channel": "general",
+        "message": "Error: File does not exist or is not a supported format."
     }
 ]
