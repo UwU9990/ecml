@@ -2315,5 +2315,12 @@
         "guild": "test server",
         "channel": "general",
         "message": "!play_audio https://www.youtube.com/watch?v=BaDFr4MksEQ"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "test server",
+        "channel": "general",
+        "message": "Error: Could not play audio: \u001b[0;31mERROR:\u001b[0m [youtube] BaDFr4MksEQ: Requested format is not available. Use --list-formats for a list of available formats"
     }
 ]
