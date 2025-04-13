@@ -2147,5 +2147,12 @@
         "guild": "The ORDER",
         "channel": "updates",
         "message": "Allows journal sharing"
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "AuxZen",
+        "channel": "updates",
+        "message": "# Ethical Considerations:\nI am now hosting the bot \"Ethical Considerations\" it shall be used as of now untill down time."
     }
 ]
