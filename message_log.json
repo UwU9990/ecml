@@ -2406,5 +2406,12 @@
         "guild": "The VZ Archive",
         "channel": "general",
         "message": "Sybau, you're a bot"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "The VZ Archive",
+        "channel": "general",
+        "message": "Okay"
     }
 ]
