@@ -2378,5 +2378,12 @@
         "guild": "The VZ Archive",
         "channel": "general",
         "message": ""
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "The VZ Archive",
+        "channel": "general",
+        "message": "!help_special"
     }
 ]
