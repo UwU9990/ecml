@@ -2350,5 +2350,12 @@
         "guild": "test server",
         "channel": "general",
         "message": "Error: Could not play audio: \u001b[0;31mERROR:\u001b[0m [youtube] BaDFr4MksEQ: Requested format is not available. Use --list-formats for a list of available formats"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "The VZ Archive",
+        "channel": "eggplant-client-logs",
+        "message": ""
     }
 ]
