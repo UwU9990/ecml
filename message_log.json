@@ -2847,5 +2847,12 @@
         "guild": "Aether",
         "channel": "staff-chat",
         "message": "\u274c **Invalid format!** Please use: `!music suggest {song} by {author}`\n**Example:** `!music suggest Bohemian Rhapsody by Queen`"
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "Aether",
+        "channel": "announcements",
+        "message": "Job sim on discord"
     }
 ]
