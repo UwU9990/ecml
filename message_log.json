@@ -3225,5 +3225,12 @@
         "guild": "Aether",
         "channel": "staff-chat",
         "message": "!music suggest https://youtu.be/4IfHDWer6Fw?si=b_L3OFEtimSs-OCn"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "Aether",
+        "channel": "staff-chat",
+        "message": "\ud83d\udd17 Downloading from URL, please wait..."
     }
 ]
