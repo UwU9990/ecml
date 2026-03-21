@@ -2623,5 +2623,12 @@
         "guild": "Aether",
         "channel": "staff-chat",
         "message": "!play_audio bagodoughnuts.mp4"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "Aether",
+        "channel": "staff-chat",
+        "message": "Error: Could not connect to voice channel: Already connected to a voice channel."
     }
 ]
