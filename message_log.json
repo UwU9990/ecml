@@ -2819,5 +2819,12 @@
         "guild": "Ohio Central 2.0",
         "channel": "welcome",
         "message": "Hello 7bepp,\nWelcome to Ohio Central 2.0!"
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "Aether",
+        "channel": "staff-chat",
+        "message": "!music suggest nigger"
     }
 ]
