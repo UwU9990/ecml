@@ -4093,5 +4093,12 @@
         "guild": "Aether",
         "channel": "general-1",
         "message": "Hi"
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "Aether",
+        "channel": "qna",
+        "message": "I would have to get them"
     }
 ]
