@@ -2588,5 +2588,12 @@
         "guild": "Aether",
         "channel": "staff-chat",
         "message": "!play_audio music.mp3"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "Aether",
+        "channel": "staff-chat",
+        "message": "Error: File does not exist or is not a supported format."
     }
 ]
