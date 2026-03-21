@@ -4562,5 +4562,12 @@
         "guild": "Aether",
         "channel": "words-from-the-dj",
         "message": "<@1330973630837817394> hate"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "Aether",
+        "channel": "words-from-the-dj",
+        "message": "is something wrong?"
     }
 ]
