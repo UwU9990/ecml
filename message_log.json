@@ -3288,5 +3288,12 @@
         "guild": "Aether",
         "channel": "staff-chat",
         "message": "https://youtube.com/shorts/Qa9HiuQTmLo?si=xWeSnpNcBHemiA2W"
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "Aether",
+        "channel": "staff-chat",
+        "message": "!music suggest https://www.youtube.com/watch?v=c8ybJD6UVNw"
     }
 ]
