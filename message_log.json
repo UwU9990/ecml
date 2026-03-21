@@ -4121,5 +4121,12 @@
         "guild": "Aether",
         "channel": "levels",
         "message": "<@264726315859443713> has reached level **8**. GG!"
+    },
+    {
+        "user": "x.onii",
+        "user_id": 999049855072743475,
+        "guild": "Aether",
+        "channel": "general-1",
+        "message": "wsp bae"
     }
 ]
