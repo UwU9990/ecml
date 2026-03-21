@@ -4457,5 +4457,12 @@
         "guild": "Aether",
         "channel": "levels",
         "message": "<@954199484819177533> has reached level **2**. GG!"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "Aether",
+        "channel": "words-from-the-dj",
+        "message": "nice!"
     }
 ]
