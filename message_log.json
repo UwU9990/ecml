@@ -2483,5 +2483,12 @@
         "guild": "Aether",
         "channel": "dj-maui-channel",
         "message": ""
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "Aether",
+        "channel": "staff-chat",
+        "message": "!stalk_voice 1464951804658978889 1465022036241023029"
     }
 ]
