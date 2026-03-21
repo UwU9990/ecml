@@ -3309,5 +3309,12 @@
         "guild": "Aether",
         "channel": "staff-chat",
         "message": "!music manual Music name"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "Aether",
+        "channel": "staff-chat",
+        "message": "\u274c **Invalid format!** Please use: `!music manual {song} by {author}`\n**Example:** `!music manual Bohemian Rhapsody by Queen`"
     }
 ]
