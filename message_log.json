@@ -4688,5 +4688,12 @@
         "guild": "Aether",
         "channel": "general-1",
         "message": "wth is that sound"
+    },
+    {
+        "user": "Dyno",
+        "user_id": 155149108183695360,
+        "guild": "Aether",
+        "channel": "announcements",
+        "message": ""
     }
 ]
