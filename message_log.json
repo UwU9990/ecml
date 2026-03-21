@@ -2903,5 +2903,12 @@
         "guild": "Aether",
         "channel": "levels",
         "message": "<@1111425766622773280> has reached level **3**. GG!"
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "Aether",
+        "channel": "announcements",
+        "message": "shut up"
     }
 ]
