@@ -4765,5 +4765,12 @@
         "guild": "Aether",
         "channel": "general-3",
         "message": "woah"
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "Aether",
+        "channel": "announcements",
+        "message": "We are going to start now"
     }
 ]
