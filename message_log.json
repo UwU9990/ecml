@@ -2896,5 +2896,12 @@
         "guild": "Aether",
         "channel": "announcements",
         "message": "@everyone ping not tuff"
+    },
+    {
+        "user": "Arcane",
+        "user_id": 437808476106784770,
+        "guild": "Aether",
+        "channel": "levels",
+        "message": "<@1111425766622773280> has reached level **3**. GG!"
     }
 ]
