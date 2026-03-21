@@ -4583,5 +4583,12 @@
         "guild": "Aether",
         "channel": "words-from-the-dj",
         "message": "please kill me"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "Aether",
+        "channel": "words-from-the-dj",
+        "message": "This is **NOT** me \ud83d\udc80."
     }
 ]
