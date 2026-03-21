@@ -3953,5 +3953,12 @@
         "guild": "DM",
         "channel": "DM",
         "message": "\ud83d\udd35 **Chat Mode ON.** Mention me or reply to me to chat."
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "DM",
+        "channel": "DM",
+        "message": "<@1330973630837817394> Tism"
     }
 ]
