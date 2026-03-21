@@ -3001,5 +3001,12 @@
         "guild": "Aether",
         "channel": "staff-chat",
         "message": "!music suggest Death by WX-78 by Trirtir"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "Aether",
+        "channel": "staff-chat",
+        "message": "\u2705 Suggestion **Death by WX-78 by Trirtir** added!\n\ud83d\udd0d Searching and downloading the song for free, please wait..."
     }
 ]
