@@ -2952,5 +2952,12 @@
         "guild": "Aether",
         "channel": "qna",
         "message": "When I answer a question I will format it like so (I'm not sure anyone else will do this):\n**Q:** *Yap yap yap yap.*\n**A:** *Holy shit SYBAU.*"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "Aether",
+        "channel": "staff-chat",
+        "message": "The great music purge has happened! Please add new songs or suggestions, there will no longer be a manual system, it will be more automated, update 3.21.26"
     }
 ]
