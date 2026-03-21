@@ -4261,5 +4261,12 @@
         "guild": "Aether",
         "channel": "words-from-the-dj",
         "message": "Hello <@1330973630837817394>"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "Aether",
+        "channel": "words-from-the-dj",
+        "message": "hi there! it is good to see you."
     }
 ]
