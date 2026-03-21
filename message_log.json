@@ -3316,5 +3316,12 @@
         "guild": "Aether",
         "channel": "staff-chat",
         "message": "\u274c **Invalid format!** Please use: `!music manual {song} by {author}`\n**Example:** `!music manual Bohemian Rhapsody by Queen`"
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "Aether",
+        "channel": "staff-chat",
+        "message": "Sybau"
     }
 ]
