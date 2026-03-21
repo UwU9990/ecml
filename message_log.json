@@ -3330,5 +3330,12 @@
         "guild": "Aether",
         "channel": "staff-chat",
         "message": "!music manual music by author"
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "Aether",
+        "channel": "staff-chat",
+        "message": "!music suggest https://youtu.be/k-PaOWxvnz0?si=zAZKVEfqy3rkAWMu"
     }
 ]
