@@ -2959,5 +2959,12 @@
         "guild": "Aether",
         "channel": "staff-chat",
         "message": "The great music purge has happened! Please add new songs or suggestions, there will no longer be a manual system, it will be more automated, update 3.21.26"
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "Aether",
+        "channel": "staff-chat",
+        "message": "!music suggest Right Foot Creep By Young Boy Never Broke Again"
     }
 ]
