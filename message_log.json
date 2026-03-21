@@ -3050,5 +3050,12 @@
         "guild": "Aether",
         "channel": "staff-chat",
         "message": "\ud83d\udd0d Searching for **\u3010\u516c\u5f0f\u3011 \u30eb\u30de\uff0f\u304b\u3044\u308a\u304d\u30d9\u30a2 feat.\u521d\u97f3\u30df\u30af by \u304b\u3044\u308a\u304d\u30d9\u30a2\uff0fKairiki bear**, please wait..."
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "Aether",
+        "channel": "staff-chat",
+        "message": "!help music"
     }
 ]
