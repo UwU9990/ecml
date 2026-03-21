@@ -2749,5 +2749,12 @@
         "guild": "Aether",
         "channel": "levels",
         "message": "<@264726315859443713> has reached level **7**. GG!"
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "Aether",
+        "channel": "staff-chat",
+        "message": "!music suggest looping the rooms by Rusino"
     }
 ]
