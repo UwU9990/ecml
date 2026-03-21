@@ -2476,5 +2476,12 @@
         "guild": "Aether",
         "channel": "dj-maui-channel",
         "message": "!help"
+    },
+    {
+        "user": "Arcane",
+        "user_id": 437808476106784770,
+        "guild": "Aether",
+        "channel": "dj-maui-channel",
+        "message": ""
     }
 ]
