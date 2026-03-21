@@ -2490,5 +2490,12 @@
         "guild": "Aether",
         "channel": "staff-chat",
         "message": "!stalk_voice 1464951804658978889 1465022036241023029"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "Aether",
+        "channel": "staff-chat",
+        "message": "Error: Server not found with ID: 1464951804658978889"
     }
 ]
