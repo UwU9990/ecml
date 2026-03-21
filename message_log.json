@@ -3799,5 +3799,12 @@
         "guild": "Aether",
         "channel": "words-from-the-dj",
         "message": "What model even is it"
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "Aether",
+        "channel": "words-from-the-dj",
+        "message": "Some openai shit, so gpt"
     }
 ]
