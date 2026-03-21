@@ -2581,5 +2581,12 @@
         "guild": "Aether",
         "channel": "staff-chat",
         "message": "!play_audio"
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "Aether",
+        "channel": "staff-chat",
+        "message": "!play_audio music.mp3"
     }
 ]
