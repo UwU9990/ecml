@@ -2651,5 +2651,12 @@
         "guild": "Aether",
         "channel": "staff-chat",
         "message": "Audio Stopped"
+    },
+    {
+        "user": "ohiobot",
+        "user_id": 1239884009509486592,
+        "guild": "Aether",
+        "channel": "general-1",
+        "message": "Hello Bwoah"
     }
 ]
