@@ -2658,5 +2658,12 @@
         "guild": "Aether",
         "channel": "general-1",
         "message": "Hello Bwoah"
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "Aether",
+        "channel": "staff-chat",
+        "message": "!suggest Jared the foot long lover by Rucka Rucka Ali"
     }
 ]
