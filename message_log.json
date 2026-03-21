@@ -2910,5 +2910,12 @@
         "guild": "Aether",
         "channel": "announcements",
         "message": "shut up"
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "Aether",
+        "channel": "announcements",
+        "message": "check mark if yes x if no"
     }
 ]
