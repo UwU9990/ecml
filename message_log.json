@@ -3358,5 +3358,12 @@
         "guild": "Aether",
         "channel": "staff-chat",
         "message": "\ud83d\udd17 Downloading from URL, please wait..."
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "Aether",
+        "channel": "staff-chat",
+        "message": "!music suggest https://youtu.be/6CHs4x2uqcQ?si=85b6Sx6UTjjA7gR6"
     }
 ]
