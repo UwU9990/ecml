@@ -4716,5 +4716,12 @@
         "guild": "Aether",
         "channel": "VC 2",
         "message": "whos fingering they pussy"
+    },
+    {
+        "user": "Arcane",
+        "user_id": 437808476106784770,
+        "guild": "Aether",
+        "channel": "levels",
+        "message": "<@999049855072743475> has reached level **4**. GG!"
     }
 ]
