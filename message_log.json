@@ -2875,5 +2875,12 @@
         "guild": "Aether",
         "channel": "staff-chat",
         "message": "\u2705 Suggestion **deutshland by rammstein** added!\n\ud83d\udd0d Searching and downloading the song for free, please wait..."
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "Aether",
+        "channel": "general-1",
+        "message": "right"
     }
 ]
