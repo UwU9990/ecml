@@ -3904,5 +3904,12 @@
         "guild": "DM",
         "channel": "DM",
         "message": "Tism"
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "DM",
+        "channel": "DM",
+        "message": "Help me."
     }
 ]
