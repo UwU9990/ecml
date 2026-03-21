@@ -3085,5 +3085,12 @@
         "guild": "Aether",
         "channel": "staff-chat",
         "message": "!help music suggest"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "Aether",
+        "channel": "staff-chat",
+        "message": "```\n!suggest\n\nFour modes, auto-detected:\n  1. Attached audio file     \u2192 copied straight into downloaded_songs/\n  2. URL (http/https)        \u2192 downloaded via yt-dlp\n  3. '{song} by {author}'    \u2192 searched on YouTube via yt-dlp\n  4. Anything else / failure \u2192 falls back to music.json manual list\n\nArguments:\n  suggestion No description given (default: )\n```"
     }
 ]
