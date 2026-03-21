@@ -3806,5 +3806,12 @@
         "guild": "Aether",
         "channel": "words-from-the-dj",
         "message": "Some openai shit, so gpt"
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "Aether",
+        "channel": "words-from-the-dj",
+        "message": "<@1330973630837817394> I gave you a labotomy"
     }
 ]
