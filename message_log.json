@@ -2441,5 +2441,12 @@
         "guild": "Aether",
         "channel": "bot-commands-1",
         "message": "!help"
+    },
+    {
+        "user": "Arcane",
+        "user_id": 437808476106784770,
+        "guild": "Aether",
+        "channel": "bot-commands-1",
+        "message": ""
     }
 ]
