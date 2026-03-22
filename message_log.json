@@ -6606,5 +6606,12 @@
         "guild": "Aether",
         "channel": "staff-chat",
         "message": "!feed"
+    },
+    {
+        "user": "Arcane",
+        "user_id": 437808476106784770,
+        "guild": "Aether",
+        "channel": "levels",
+        "message": "<@264726315859443713> has reached level **9**. GG!"
     }
 ]
