@@ -7201,5 +7201,12 @@
         "guild": "Aether",
         "channel": "staff-chat",
         "message": "\u2600\ufe0f **Wx-87** jolts awake, blinking at the screen..."
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "Aether",
+        "channel": "staff-chat",
+        "message": "!stats"
     }
 ]
