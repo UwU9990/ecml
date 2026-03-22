@@ -7187,5 +7187,12 @@
         "guild": "Aether",
         "channel": "staff-chat",
         "message": "\ud83c\udf19 **Wx-87** closes their eyes and drifts off..."
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "Aether",
+        "channel": "staff-chat",
+        "message": "!wake"
     }
 ]
