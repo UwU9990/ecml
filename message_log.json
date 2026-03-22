@@ -5038,5 +5038,12 @@
         "guild": "DM",
         "channel": "DM",
         "message": "Unknown mode. Use `!mode learn` or `!mode chat`."
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "DM",
+        "channel": "DM",
+        "message": "!mode learn"
     }
 ]
