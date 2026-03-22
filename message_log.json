@@ -7999,5 +7999,12 @@
         "guild": "Aether",
         "channel": "staff-chat",
         "message": "<@1484781823350280232> hello"
+    },
+    {
+        "user": "Wx-78",
+        "user_id": 1484781823350280232,
+        "guild": "Aether",
+        "channel": "staff-chat",
+        "message": "what's your skincolor?"
     }
 ]
