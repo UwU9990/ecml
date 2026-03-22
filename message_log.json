@@ -5010,5 +5010,12 @@
         "guild": "Aether",
         "channel": "staff-chat",
         "message": "!instructions"
+    },
+    {
+        "user": "ohiobot",
+        "user_id": 1239884009509486592,
+        "guild": "Aether",
+        "channel": "staff-chat",
+        "message": ""
     }
 ]
