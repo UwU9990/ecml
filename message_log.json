@@ -5052,5 +5052,12 @@
         "guild": "DM",
         "channel": "DM",
         "message": "\ud83d\udfe2 **Learning Mode ON.** Reply to messages to teach me."
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "DM",
+        "channel": "DM",
+        "message": "Hate"
     }
 ]
