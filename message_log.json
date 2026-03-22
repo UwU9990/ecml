@@ -7054,5 +7054,12 @@
         "guild": "Aether",
         "channel": "staff-chat",
         "message": "Who is Rain?"
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "Aether",
+        "channel": "staff-chat",
+        "message": "Hello <@1484781823350280232>"
     }
 ]
