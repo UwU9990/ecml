@@ -5199,5 +5199,12 @@
         "guild": "Aether",
         "channel": "words-from-the-dj",
         "message": "i hate jews"
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "Aether",
+        "channel": "words-from-the-dj",
+        "message": "!mode chat"
     }
 ]
