@@ -6137,5 +6137,12 @@
         "guild": "Aether",
         "channel": "staff-chat",
         "message": "```\n\u200bNo Category:\n  help         Shows this message\n  instructions \n  mode         \n  stats        \n  train        \n\nType !help command for more info on a command.\nYou can also type !help category for more info on a category.\n```"
+    },
+    {
+        "user": "Arcane",
+        "user_id": 437808476106784770,
+        "guild": "Aether",
+        "channel": "staff-chat",
+        "message": ""
     }
 ]
