@@ -6165,5 +6165,12 @@
         "guild": "Aether",
         "channel": "staff-chat",
         "message": "!help"
+    },
+    {
+        "user": "Wx-78",
+        "user_id": 1484781823350280232,
+        "guild": "Aether",
+        "channel": "staff-chat",
+        "message": "```\n\u200bNo Category:\n  aihelp Show all available commands.\n  drink  Give the AI water to reduce its thirst.\n  feed   Feed the AI to reduce its hunger.\n  help   Shows this message\n  sleep  Force the AI into a dream.\n  stats  Show the AI's current vitals.\n  teach  Teach the AI a new response.\n  wake   Wake the AI up from a dream.\n\nType !help command for more info on a command.\nYou can also type !help category for more info on a category.\n```"
     }
 ]
