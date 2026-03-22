@@ -7012,5 +7012,12 @@
         "guild": "Aether",
         "channel": "staff-chat",
         "message": "!teach Who is Rain? | Adolf Gaming."
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "Aether",
+        "channel": "staff-chat",
+        "message": "<@1484781823350280232>"
     }
 ]
