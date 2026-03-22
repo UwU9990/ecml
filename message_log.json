@@ -6683,5 +6683,12 @@
         "guild": "Aether",
         "channel": "staff-chat",
         "message": "\u274c Format: `!teach <trigger> | <response>`\nExample: `!teach hello | hi there!`"
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "Aether",
+        "channel": "staff-chat",
+        "message": "|"
     }
 ]
