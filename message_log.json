@@ -6613,5 +6613,12 @@
         "guild": "Aether",
         "channel": "levels",
         "message": "<@264726315859443713> has reached level **9**. GG!"
+    },
+    {
+        "user": "Wx-78",
+        "user_id": 1484781823350280232,
+        "guild": "Aether",
+        "channel": "staff-chat",
+        "message": "\ud83d\ude34 Wx-87 is dreaming. You leave the food by the door..."
     }
 ]
