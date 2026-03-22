@@ -4877,5 +4877,12 @@
         "guild": "Aether",
         "channel": "staff-chat",
         "message": "\ud83d\udd17 Downloading from URL, please wait..."
+    },
+    {
+        "user": "ohiobot",
+        "user_id": 1239884009509486592,
+        "guild": "Aether",
+        "channel": "general-1",
+        "message": "ruh ruh ruh"
     }
 ]
