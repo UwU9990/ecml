@@ -4940,5 +4940,12 @@
         "guild": "Aether",
         "channel": "staff-chat",
         "message": "Tism"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "Aether",
+        "channel": "staff-chat",
+        "message": "help me."
     }
 ]
