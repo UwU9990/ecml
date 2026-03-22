@@ -7978,5 +7978,12 @@
         "guild": "Aether",
         "channel": "staff-chat",
         "message": "\u23f3 They just drank! Wait **20s** before watering again."
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "Aether",
+        "channel": "staff-chat",
+        "message": "!drink"
     }
 ]
