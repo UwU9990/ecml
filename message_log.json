@@ -6116,5 +6116,12 @@
         "guild": "Aether",
         "channel": "staff-chat",
         "message": "!help"
+    },
+    {
+        "user": "Wx-78",
+        "user_id": 1484781823350280232,
+        "guild": "Aether",
+        "channel": "staff-chat",
+        "message": "```\n\u200bNo Category:\n  help Shows this message\n\nType !help command for more info on a command.\nYou can also type !help category for more info on a category.\n```"
     }
 ]
