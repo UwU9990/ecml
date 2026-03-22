@@ -6074,5 +6074,12 @@
         "guild": "Aether",
         "channel": "bot-commands-1",
         "message": ".wk"
+    },
+    {
+        "user": ".fmbot",
+        "user_id": 356268235697553409,
+        "guild": "Aether",
+        "channel": "bot-commands-1",
+        "message": ""
     }
 ]
