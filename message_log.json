@@ -4849,5 +4849,12 @@
         "guild": "Aether",
         "channel": "staff-chat",
         "message": "\u2705 **Celestine_by_Monocrexy.mp3** saved and added to the playlist!"
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "Aether",
+        "channel": "staff-chat",
+        "message": "!music suggest https://youtu.be/ju4KQT0wL0I"
     }
 ]
