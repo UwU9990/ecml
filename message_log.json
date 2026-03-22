@@ -6676,5 +6676,12 @@
         "guild": "Aether",
         "channel": "staff-chat",
         "message": "!teach Hello Hi"
+    },
+    {
+        "user": "Wx-78",
+        "user_id": 1484781823350280232,
+        "guild": "Aether",
+        "channel": "staff-chat",
+        "message": "\u274c Format: `!teach <trigger> | <response>`\nExample: `!teach hello | hi there!`"
     }
 ]
