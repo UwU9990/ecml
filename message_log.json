@@ -6963,5 +6963,12 @@
         "guild": "Aether",
         "channel": "staff-chat",
         "message": "!stats"
+    },
+    {
+        "user": "Arcane",
+        "user_id": 437808476106784770,
+        "guild": "Aether",
+        "channel": "staff-chat",
+        "message": ""
     }
 ]
