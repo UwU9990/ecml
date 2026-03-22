@@ -6046,5 +6046,12 @@
         "guild": "Aether",
         "channel": "staff-chat",
         "message": "```\n\u200bNo Category:\n  help         Shows this message\n  instructions \n  mode         \n  stats        \n  train        \n\nType !help command for more info on a command.\nYou can also type !help category for more info on a category.\n```"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "Aether",
+        "channel": "staff-chat",
+        "message": "```\n\u200bNo Category:\n  help  Shows this message\n  music \n  say   \n  skip  \n\nType !help command for more info on a command.\nYou can also type !help category for more info on a category.\n```"
     }
 ]
