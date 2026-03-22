@@ -5073,5 +5073,12 @@
         "guild": "DM",
         "channel": "DM",
         "message": "\u2699\ufe0f Building vocabulary and training\u2026"
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "DM",
+        "channel": "DM",
+        "message": "!mode chat"
     }
 ]
