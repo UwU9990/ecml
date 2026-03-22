@@ -7313,5 +7313,12 @@
         "guild": "Aether",
         "channel": "staff-chat",
         "message": "Rain"
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "Aether",
+        "channel": "staff-chat",
+        "message": "!music suggest https://youtube.com/shorts/tCOImKrOzSY"
     }
 ]
