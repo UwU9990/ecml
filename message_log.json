@@ -7327,5 +7327,12 @@
         "guild": "Aether",
         "channel": "staff-chat",
         "message": "\u274c Failed to add suggestion to the list."
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "Aether",
+        "channel": "staff-chat",
+        "message": "!music suggest https://youtu.be/p0VY8MjBoMk"
     }
 ]
