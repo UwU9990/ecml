@@ -8090,5 +8090,12 @@
         "guild": "Aether",
         "channel": "staff-chat",
         "message": "\ud83d\uddd1\ufe0f Removed **Email BattleRealmcombo 3 210bpm** from the playlist."
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "Aether",
+        "channel": "\ud83d\udc3a\ud83d\udcbc\ud83c\udf46\u2502staff-furry-roleplay",
+        "message": "<@&1468113959918764149>"
     }
 ]
