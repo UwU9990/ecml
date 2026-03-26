@@ -8132,5 +8132,12 @@
         "guild": "Aether",
         "channel": "general-1",
         "message": "<@1244674726471794789>"
+    },
+    {
+        "user": "dalano12alt",
+        "user_id": 1244674726471794789,
+        "guild": "Aether",
+        "channel": "general-1",
+        "message": ""
     }
 ]
