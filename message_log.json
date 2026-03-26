@@ -8069,5 +8069,12 @@
         "guild": "Aether",
         "channel": "staff-chat",
         "message": "!skip"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "Aether",
+        "channel": "staff-chat",
+        "message": "\u23ed\ufe0f Skipping!"
     }
 ]
