@@ -8398,5 +8398,12 @@
         "guild": "Aether",
         "channel": "general-1",
         "message": "This is an insane statement right here"
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "Aether",
+        "channel": "general-1",
+        "message": "But alright"
     }
 ]
