@@ -8076,5 +8076,12 @@
         "guild": "Aether",
         "channel": "staff-chat",
         "message": "\u23ed\ufe0f Skipping!"
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "Aether",
+        "channel": "staff-chat",
+        "message": "!remove Email BattleRealmcombo"
     }
 ]
