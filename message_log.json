@@ -8531,5 +8531,12 @@
         "guild": "Aether",
         "channel": "general-1",
         "message": "nicker"
+    },
+    {
+        "user": "dalano12alt",
+        "user_id": 1244674726471794789,
+        "guild": "Aether",
+        "channel": "random-media",
+        "message": "https://www.youtube.com/watch?v=z2sHepkbOLU"
     }
 ]
