@@ -8608,5 +8608,12 @@
         "guild": "Aether",
         "channel": "random-media",
         "message": "<:Rapeson_mugshot:1487056988906061954>"
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "Aether",
+        "channel": "staff-chat",
+        "message": ""
     }
 ]
