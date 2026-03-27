@@ -8713,5 +8713,12 @@
         "guild": "Farty",
         "channel": "staff-chat",
         "message": ""
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "Farty",
+        "channel": "staff-chat",
+        "message": ".ban @<999049855072743475>"
     }
 ]
