@@ -8909,5 +8909,12 @@
         "guild": "Farty",
         "channel": "smash-or-pass",
         "message": "Smash or pass diddy"
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "Farty",
+        "channel": "announcements",
+        "message": ""
     }
 ]
