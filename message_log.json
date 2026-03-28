@@ -9091,5 +9091,12 @@
         "guild": "Farty",
         "channel": "staff-chat",
         "message": ""
+    },
+    {
+        "user": "x.onii",
+        "user_id": 999049855072743475,
+        "guild": "Farty",
+        "channel": "welcome",
+        "message": ""
     }
 ]
