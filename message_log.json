@@ -8937,5 +8937,12 @@
         "guild": "Farty",
         "channel": "role-info",
         "message": "If you want <@&1465017470984261744> you have to be cool"
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "Farty",
+        "channel": "bot-commands-1",
+        "message": "!music suggest"
     }
 ]
