@@ -10904,5 +10904,12 @@
         "guild": "Farty",
         "channel": "rape",
         "message": "/script create edp [var: str] free cupcake {var}"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "Farty",
+        "channel": "rape",
+        "message": "Created `edp` with 1 args."
     }
 ]
