@@ -10505,5 +10505,12 @@
         "guild": "Farty",
         "channel": "rape",
         "message": "Missing arg: `var`"
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "Farty",
+        "channel": "rape",
+        "message": "/fuck <@264726315859443713>"
     }
 ]
