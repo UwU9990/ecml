@@ -10442,5 +10442,12 @@
         "guild": "Farty",
         "channel": "rape",
         "message": "<@1111425766622773280> told me to say: Testing"
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "Farty",
+        "channel": "rape",
+        "message": "EX:\n\\/script create example [var: value] [optional_var: value*] This script was made for a example, it uses a variable {var}, and a optional variable {optional_var}!"
     }
 ]
