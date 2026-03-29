@@ -11527,5 +11527,12 @@
         "guild": "DM",
         "channel": "DM",
         "message": "Created `interpret` with 1 args."
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "DM",
+        "channel": "DM",
+        "message": "/interpret print(\"Hello\")"
     }
 ]
