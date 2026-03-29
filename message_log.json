@@ -10330,5 +10330,12 @@
         "guild": "Farty",
         "channel": "rape",
         "message": "Bro"
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "Farty",
+        "channel": "rape",
+        "message": "/script create member-count {ctx.guild.member_count}"
     }
 ]
