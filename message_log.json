@@ -9616,5 +9616,12 @@
         "guild": "Farty",
         "channel": "levels",
         "message": "alright dude"
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "Farty",
+        "channel": "qna",
+        "message": "/rape <@1111425766622773280>"
     }
 ]
