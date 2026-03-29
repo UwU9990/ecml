@@ -9252,5 +9252,12 @@
         "guild": "Farty",
         "channel": "VC 2",
         "message": "<@264726315859443713>  Jewboy"
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "Farty",
+        "channel": "staff-chat",
+        "message": "<@1111425766622773280> <@1244674726471794789>"
     }
 ]
