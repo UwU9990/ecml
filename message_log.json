@@ -11989,5 +11989,12 @@
         "guild": "Farty",
         "channel": "rape",
         "message": "*<@264726315859443713> rapes <@1111425766622773280>!*"
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "Farty",
+        "channel": "bot-commands-1",
+        "message": ".wk"
     }
 ]
