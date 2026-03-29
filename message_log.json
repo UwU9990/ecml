@@ -11604,5 +11604,12 @@
         "guild": "DM",
         "channel": "DM",
         "message": "A command with that name already exists."
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "DM",
+        "channel": "DM",
+        "message": ""
     }
 ]
