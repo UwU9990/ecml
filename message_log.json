@@ -9399,5 +9399,12 @@
         "guild": "DM",
         "channel": "DM",
         "message": "```ini\n[NEURAL NETWORK LOG]\nInput: \"/rape\"\nRaw_Prob: 0.95\n-------------------------\nCONFIDENCE: 97.29%\nStatus: Response Generated.\n```"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "DM",
+        "channel": "DM",
+        "message": "very cool indeed."
     }
 ]
