@@ -11051,5 +11051,12 @@
         "guild": "Farty",
         "channel": "rape",
         "message": "Here is the list of supported types:"
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "Farty",
+        "channel": "rape",
+        "message": "/script create Counter Rape [user: discord.user] <@ctx.author.id> Counter rapes  <@user.id> rape"
     }
 ]
