@@ -10400,5 +10400,12 @@
         "guild": "Farty",
         "channel": "rape",
         "message": "/coinslot"
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "Farty",
+        "channel": "rape",
+        "message": "/script create [string: str] <@{ctx.author.id}> told me to say: {string}"
     }
 ]
