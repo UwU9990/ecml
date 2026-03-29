@@ -10764,5 +10764,12 @@
         "guild": "Farty",
         "channel": "\ud83d\udc3a\ud83d\udcbc\ud83c\udf46\u2502staff-furry-roleplay",
         "message": "The channel must be NSFW to protect users."
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "Farty",
+        "channel": "\ud83d\udc3a\ud83d\udcbc\ud83c\udf46\u2502staff-furry-roleplay",
+        "message": "/cado true"
     }
 ]
