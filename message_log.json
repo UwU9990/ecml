@@ -10421,5 +10421,12 @@
         "guild": "Farty",
         "channel": "rape",
         "message": "/script create say [string: str] <@{ctx.author.id}> told me to say: {string}"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "Farty",
+        "channel": "rape",
+        "message": "Created `say` with 1 args."
     }
 ]
