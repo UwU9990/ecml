@@ -11541,5 +11541,12 @@
         "guild": "DM",
         "channel": "DM",
         "message": "Format Error: `unexpected '{' in field name`"
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "DM",
+        "channel": "DM",
+        "message": "/interpret print(\"Hello\")"
     }
 ]
