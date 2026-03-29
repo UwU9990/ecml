@@ -9602,5 +9602,12 @@
         "guild": "Farty",
         "channel": "general",
         "message": "*<@264726315859443713> rapes <@944324351287779358>!*"
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "Farty",
+        "channel": "qna",
+        "message": "Can I /rape <@1111425766622773280>"
     }
 ]
