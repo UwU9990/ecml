@@ -10918,5 +10918,12 @@
         "guild": "Farty",
         "channel": "\ud83d\udc3a\ud83d\udcbc\ud83c\udf46\u2502staff-furry-roleplay",
         "message": "/edp"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "Farty",
+        "channel": "\ud83d\udc3a\ud83d\udcbc\ud83c\udf46\u2502staff-furry-roleplay",
+        "message": "Missing arg: `var`"
     }
 ]
