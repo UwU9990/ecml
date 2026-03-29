@@ -11688,5 +11688,12 @@
         "guild": "DM",
         "channel": "DM",
         "message": "**Available Versions:**\n`1.0`, `1.1`, `1.11`, `1.12`, `1.13`, `1.14`, `1.15`, `1.2`, `1.21`, `1.22`, `1.23`, `1.24`, `1.3`, `1.4`, `1.41`, `1.42`, `1.43`"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "DM",
+        "channel": "DM",
+        "message": "# Updates:\n\nRetard.py:\n\n## Version 1.44\n-# Fixed script (updates)"
     }
 ]
