@@ -11177,5 +11177,12 @@
         "guild": "Farty",
         "channel": "bot-commands-1",
         "message": "\ud83d\udd17 Downloading from URL, please wait..."
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "Farty",
+        "channel": "\ud83d\udc3a\ud83d\udcbc\ud83c\udf46\u2502staff-furry-roleplay",
+        "message": "/cado true"
     }
 ]
