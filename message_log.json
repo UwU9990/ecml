@@ -11065,5 +11065,12 @@
         "guild": "Farty",
         "channel": "rape",
         "message": "Created `Counter` with 1 args."
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "Farty",
+        "channel": "rape",
+        "message": "/counter rape <@1330973630837817394>"
     }
 ]
