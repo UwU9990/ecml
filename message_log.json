@@ -10414,5 +10414,12 @@
         "guild": "Farty",
         "channel": "rape",
         "message": "Created `[string:` with 1 args."
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "Farty",
+        "channel": "rape",
+        "message": "/script create say [string: str] <@{ctx.author.id}> told me to say: {string}"
     }
 ]
