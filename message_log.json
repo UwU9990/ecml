@@ -10211,5 +10211,12 @@
         "guild": "Farty",
         "channel": "rape",
         "message": "You are <@1111425766622773280>"
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "Farty",
+        "channel": "rape",
+        "message": "/script create esex [user: discord.user] *<@ctx.author.id> has e-Sex with <@user.id>*"
     }
 ]
