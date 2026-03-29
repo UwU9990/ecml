@@ -11653,5 +11653,12 @@
         "guild": "DM",
         "channel": "DM",
         "message": ""
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "DM",
+        "channel": "DM",
+        "message": "Format error! Use `start-end` (e.g., `1.0-1.41`)."
     }
 ]
