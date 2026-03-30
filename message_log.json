@@ -12976,5 +12976,12 @@
         "guild": "DM",
         "channel": "DM",
         "message": "https://discord.com/oauth2/authorize?client_id=1488137972585992252"
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "Farty",
+        "channel": "rape",
+        "message": "/kill <@1330973630837817394>"
     }
 ]
