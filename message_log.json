@@ -14712,5 +14712,12 @@
         "guild": "StormCaster",
         "channel": "welcome",
         "message": ""
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "Farty",
+        "channel": "VC 2",
+        "message": ""
     }
 ]
