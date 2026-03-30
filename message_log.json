@@ -13557,5 +13557,12 @@
         "guild": "Farty",
         "channel": "rape",
         "message": "/execute as <@1378479922888048652> run whoami"
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "DM",
+        "channel": "DM",
+        "message": "https://discord.com/oauth2/authorize?client_id=1330973630837817394"
     }
 ]
