@@ -12969,5 +12969,12 @@
         "guild": "Farty",
         "channel": "rape",
         "message": "very cool indeed."
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "DM",
+        "channel": "DM",
+        "message": "https://discord.com/oauth2/authorize?client_id=1488137972585992252"
     }
 ]
