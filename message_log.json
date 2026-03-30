@@ -13851,5 +13851,12 @@
         "guild": "Farty",
         "channel": "rape",
         "message": "i am here. tell me what the problem is."
+    },
+    {
+        "user": "x.onii",
+        "user_id": 999049855072743475,
+        "guild": "Farty",
+        "channel": "rape",
+        "message": "/whoami"
     }
 ]
