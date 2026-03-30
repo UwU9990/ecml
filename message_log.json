@@ -13550,5 +13550,12 @@
         "guild": "Farty",
         "channel": "rape",
         "message": "/execute run as <@1378479922888048652> run whoami"
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "Farty",
+        "channel": "rape",
+        "message": "/execute as <@1378479922888048652> run whoami"
     }
 ]
