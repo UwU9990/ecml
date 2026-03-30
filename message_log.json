@@ -13571,5 +13571,12 @@
         "guild": "King Knuckles FanClub",
         "channel": "welcome",
         "message": ""
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "King Knuckles FanClub",
+        "channel": "mods-text",
+        "message": "/execute as <@1378479922888048652> run whoami"
     }
 ]
