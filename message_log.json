@@ -14544,5 +14544,12 @@
         "guild": "StormCaster",
         "channel": "gen",
         "message": "<@1310423687660310598> get your roles"
+    },
+    {
+        "user": "realquayy",
+        "user_id": 1310423687660310598,
+        "guild": "StormCaster",
+        "channel": "gen",
+        "message": ""
     }
 ]
