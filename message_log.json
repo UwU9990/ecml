@@ -13312,5 +13312,12 @@
         "guild": "Farty",
         "channel": "staff-chat",
         "message": "<@1106991806677266493>/The Unfortunate"
+    },
+    {
+        "user": "Wx-78",
+        "user_id": 1484781823350280232,
+        "guild": "Farty",
+        "channel": "bot-commands-1",
+        "message": ""
     }
 ]
