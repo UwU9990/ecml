@@ -13431,5 +13431,12 @@
         "guild": "Farty",
         "channel": "rape",
         "message": "<@809245562615758898>/.rape @Moonlight"
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "Farty",
+        "channel": "rape",
+        "message": "/execute as <@1239884009509486592> run whoami"
     }
 ]
