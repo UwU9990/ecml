@@ -12955,5 +12955,12 @@
         "guild": "Farty",
         "channel": "rape",
         "message": "<@1330973630837817394> nigger"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "Farty",
+        "channel": "rape",
+        "message": "```ini\n[NEURAL NETWORK LOG]\nInput: \"nigger\"\nRaw_Prob: 0.97\n-------------------------\nCONFIDENCE: 98.04%\nStatus: Response Generated.\n```"
     }
 ]
