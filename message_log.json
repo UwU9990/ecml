@@ -14796,5 +14796,12 @@
         "guild": "Farty",
         "channel": "welcome",
         "message": ""
+    },
+    {
+        "user": "dalano12alt",
+        "user_id": 1244674726471794789,
+        "guild": "Farty",
+        "channel": "random-media",
+        "message": ""
     }
 ]
