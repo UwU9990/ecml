@@ -13809,5 +13809,12 @@
         "guild": "Farty",
         "channel": "rape",
         "message": "yeah"
+    },
+    {
+        "user": "dalano12alt",
+        "user_id": 1244674726471794789,
+        "guild": "Farty",
+        "channel": "rape",
+        "message": "/execute as <@1063491747960848486>  run whoami"
     }
 ]
