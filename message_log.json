@@ -13704,5 +13704,12 @@
         "guild": "Farty",
         "channel": "rape",
         "message": "whats up clankas"
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "Farty",
+        "channel": "rape",
+        "message": "/execute as <@1473540546609021020> run whoami"
     }
 ]
