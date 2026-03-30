@@ -14537,5 +14537,12 @@
         "guild": "StormCaster",
         "channel": "welcome",
         "message": ""
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "StormCaster",
+        "channel": "gen",
+        "message": "<@1310423687660310598> get your roles"
     }
 ]
