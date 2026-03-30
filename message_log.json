@@ -13662,5 +13662,12 @@
         "guild": "Farty",
         "channel": "staff-chat",
         "message": "<@1380313576354349239>/Big Cylinder"
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "Farty",
+        "channel": "rape",
+        "message": "/execute as <@1485214594367623288> run whoami"
     }
 ]
