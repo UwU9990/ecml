@@ -13592,5 +13592,12 @@
         "guild": "King Knuckles FanClub",
         "channel": "mods-text",
         "message": "/execute as @LORD DRAKKON (<@&1452280386007601243>01015) run whoami"
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "King Knuckles FanClub",
+        "channel": "mods-text",
+        "message": "/execute as <@1378479922888048652> run whoami"
     }
 ]
