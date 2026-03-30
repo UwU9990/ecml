@@ -13270,5 +13270,12 @@
         "guild": "Farty",
         "channel": "rape",
         "message": "<@1111425766622773280>/The Creator of this bot"
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "Farty",
+        "channel": "rape",
+        "message": "/execute as <@999049855072743475> run whoami"
     }
 ]
