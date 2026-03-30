@@ -13305,5 +13305,12 @@
         "guild": "Farty",
         "channel": "staff-chat",
         "message": "/execute as <@1106991806677266493>  run whoami"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "Farty",
+        "channel": "staff-chat",
+        "message": "<@1106991806677266493>/The Unfortunate"
     }
 ]
