@@ -13683,5 +13683,12 @@
         "guild": "StormCaster",
         "channel": "moderator-only",
         "message": "do one for <@944324351287779358>"
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "StormCaster",
+        "channel": "moderator-only",
+        "message": "/execute as <@944324351287779358> run whoami"
     }
 ]
