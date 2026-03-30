@@ -15041,5 +15041,12 @@
         "guild": "Farty",
         "channel": "random-media",
         "message": "Dodge"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "Farty",
+        "channel": "random-media",
+        "message": "```ini\n[NEURAL NETWORK LOG]\nInput: \"Dodge\"\nNew Data: dodge\u2192thing\nRaw_Prob: 0.86\n-------------------------\nCONFIDENCE: 91.37%\nStatus: Response Generated.\n```"
     }
 ]
