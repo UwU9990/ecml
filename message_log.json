@@ -13522,5 +13522,12 @@
         "guild": "Farty",
         "channel": "rape",
         "message": "I do not have the required permissions to run commands in this channel.\n\nPlease check that the following permissions have been granted to this bot:\n- View Channel\n- Send Messages\n- Embed links\n- Attach Files\n- Read Message History\n\nYou can run </doctor:1274411764922192024> to check the permissions."
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "Farty",
+        "channel": "rape",
+        "message": "/execute as <@1194850293612019773>  run whoami"
     }
 ]
