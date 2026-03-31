@@ -17197,5 +17197,12 @@
         "guild": "Farty",
         "channel": "random-media",
         "message": ""
+    },
+    {
+        "user": "your_average_pyromaniac",
+        "user_id": 1457468775720026188,
+        "guild": "Farty",
+        "channel": "bot-commands-1",
+        "message": "!music suggest BINGO! by ISSBROKIE"
     }
 ]
