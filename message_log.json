@@ -15496,5 +15496,12 @@
         "guild": "Farty",
         "channel": "rape",
         "message": "Fuck you"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "DM",
+        "channel": "DM",
+        "message": "Invalid syntax. Use: `execute as @user run <command>`"
     }
 ]
