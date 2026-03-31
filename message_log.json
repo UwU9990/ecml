@@ -15678,5 +15678,12 @@
         "guild": "DM",
         "channel": "DM",
         "message": "*<@1111425766622773280> rapes <@1111425766622773280>!*"
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "DM",
+        "channel": "DM",
+        "message": "/dodge"
     }
 ]
