@@ -15328,5 +15328,12 @@
         "guild": "Farty",
         "channel": "random-media",
         "message": "Are you a snail"
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "StormCaster",
+        "channel": "staff-bot-cmd",
+        "message": "/djmaui"
     }
 ]
