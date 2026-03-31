@@ -17211,5 +17211,12 @@
         "guild": "Farty",
         "channel": "bot-commands-1",
         "message": "\ud83d\udd0d Searching for **BINGO! by ISSBROKIE**, please wait..."
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "Farty",
+        "channel": "bot-commands-1",
+        "message": "/music list"
     }
 ]
