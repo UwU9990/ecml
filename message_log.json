@@ -17141,5 +17141,12 @@
         "guild": "Farty",
         "channel": "rape",
         "message": ""
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "Farty",
+        "channel": "rape",
+        "message": "Unknown option: upates. Use `name`, `creator`, `version`, `create`, `vartypes`, or `updates`..."
     }
 ]
