@@ -17057,5 +17057,12 @@
         "guild": "Farty",
         "channel": "staff-chat",
         "message": "<@999049855072743475>/Japanese Nigga"
+    },
+    {
+        "user": "Averi",
+        "user_id": 1488137972585992252,
+        "guild": "Farty",
+        "channel": "welcome",
+        "message": ""
     }
 ]
