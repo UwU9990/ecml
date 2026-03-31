@@ -16231,5 +16231,12 @@
         "guild": "Farty",
         "channel": "general",
         "message": "<@949479338275913799>"
+    },
+    {
+        "user": "Make it a Quote",
+        "user_id": 949479338275913799,
+        "guild": "Farty",
+        "channel": "general",
+        "message": ""
     }
 ]
