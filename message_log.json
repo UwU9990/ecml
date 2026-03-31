@@ -17204,5 +17204,12 @@
         "guild": "Farty",
         "channel": "bot-commands-1",
         "message": "!music suggest BINGO! by ISSBROKIE"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "Farty",
+        "channel": "bot-commands-1",
+        "message": "\ud83d\udd0d Searching for **BINGO! by ISSBROKIE**, please wait..."
     }
 ]
