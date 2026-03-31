@@ -15335,5 +15335,12 @@
         "guild": "StormCaster",
         "channel": "staff-bot-cmd",
         "message": "/djmaui"
+    },
+    {
+        "user": ".rapeson.",
+        "user_id": 1249253553558655026,
+        "guild": "Farty",
+        "channel": "rape",
+        "message": "/rape <@1111425766622773280>"
     }
 ]
