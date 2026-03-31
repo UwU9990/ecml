@@ -17239,5 +17239,12 @@
         "guild": "Farty",
         "channel": "bot-commands-1",
         "message": "!music skip 6"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "Farty",
+        "channel": "bot-commands-1",
+        "message": "**\ud83c\udfb5 Music Commands:**\n`!music list` \u2014 show all songs in the playlist\n`!music current` \u2014 show what's playing now\n`!music autosave <on/off>` \u2014 toggle autosave\n\n**`!music suggest`** \u2014 auto-download & add to playlist:\n  \u2022 `!music suggest Bohemian Rhapsody by Queen` \u2014 search YouTube\n  \u2022 `!music suggest https://youtu.be/...` \u2014 any URL yt-dlp supports\n  \u2022 `!music suggest` + attach an audio file \u2014 copies it directly\n\n**`!music manual`** \u2014 add a note to the suggestions list without downloading:\n  \u2022 `!music manual Bohemian Rhapsody by Queen` \u2014 logs it for the host to add manually"
     }
 ]
