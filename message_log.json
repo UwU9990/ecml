@@ -17358,5 +17358,12 @@
         "guild": "Farty",
         "channel": "words-from-the-dj",
         "message": "```ini\n[NEURAL NETWORK LOG]\nInput: \"Kike\"\nNew Data: kike\u2192thing\nRaw_Prob: 0.92\n-------------------------\nCONFIDENCE: 95.31%\nStatus: Response Generated.\n```"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "Farty",
+        "channel": "words-from-the-dj",
+        "message": "i am here. tell myself what the problem is."
     }
 ]
