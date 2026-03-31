@@ -17456,5 +17456,12 @@
         "guild": "Farty",
         "channel": "bot-commands-1",
         "message": ".w"
+    },
+    {
+        "user": ".fmbot",
+        "user_id": 356268235697553409,
+        "guild": "Farty",
+        "channel": "bot-commands-1",
+        "message": ""
     }
 ]
