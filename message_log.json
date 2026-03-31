@@ -17400,5 +17400,12 @@
         "guild": "Farty",
         "channel": "rape",
         "message": "```ini\n[NEURAL NETWORK LOG]\nInput: \"No you are a clanker\"\nRaw_Prob: 0.87\n-------------------------\nCONFIDENCE: 92.31%\nStatus: Response Generated.\n```"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "Farty",
+        "channel": "rape",
+        "message": "i am a chatbot built drums python and torch."
     }
 ]
