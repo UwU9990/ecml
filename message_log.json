@@ -15503,5 +15503,12 @@
         "guild": "DM",
         "channel": "DM",
         "message": "Invalid syntax. Use: `execute as @user run <command>`"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "StormCaster",
+        "channel": "staff-bot-cmd",
+        "message": "<@944324351287779358>/Master's crush"
     }
 ]
