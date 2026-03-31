@@ -15349,5 +15349,12 @@
         "guild": "Farty",
         "channel": "rape",
         "message": "*<@1249253553558655026> rapes <@1111425766622773280>!*"
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "Farty",
+        "channel": "rape",
+        "message": "/kill <@1249253553558655026>"
     }
 ]
