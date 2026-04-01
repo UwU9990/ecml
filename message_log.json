@@ -18457,5 +18457,12 @@
         "guild": "Farty",
         "channel": "staff-chat",
         "message": "/ohioman description"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "Farty",
+        "channel": "staff-chat",
+        "message": "76.34.65.151 (laptop)"
     }
 ]
