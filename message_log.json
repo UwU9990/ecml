@@ -18205,5 +18205,12 @@
         "guild": "Farty",
         "channel": "rape",
         "message": "Zosie"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "Farty",
+        "channel": "rape",
+        "message": "```ini\n[NEURAL NETWORK LOG]\nInput: \"Zosie\"\nRaw_Prob: 0.66\n-------------------------\nCONFIDENCE: 79.72%\nStatus: Response Generated.\n```"
     }
 ]
