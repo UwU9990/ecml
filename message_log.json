@@ -17827,5 +17827,12 @@
         "guild": "StormCaster",
         "channel": "cmd",
         "message": "<@264726315859443713>/The Master of this Field"
+    },
+    {
+        "user": "Carl-bot",
+        "user_id": 235148962103951360,
+        "guild": "StormCaster",
+        "channel": "gen",
+        "message": ""
     }
 ]
