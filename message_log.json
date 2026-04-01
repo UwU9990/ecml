@@ -18905,5 +18905,12 @@
         "guild": "Farty",
         "channel": "rape",
         "message": "it\u2019s okay bb"
+    },
+    {
+        "user": "dalano12alt",
+        "user_id": 1244674726471794789,
+        "guild": "Farty",
+        "channel": "bot-commands-1",
+        "message": "."
     }
 ]
