@@ -19479,5 +19479,12 @@
         "guild": "Farty",
         "channel": "bot-commands-1",
         "message": ""
+    },
+    {
+        "user": "theonennonly.",
+        "user_id": 1468291299445702872,
+        "guild": "StormCaster",
+        "channel": "welcome",
+        "message": ""
     }
 ]
