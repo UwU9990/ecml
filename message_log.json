@@ -19346,5 +19346,12 @@
         "guild": "StormCaster",
         "channel": "fmbot",
         "message": ".gw"
+    },
+    {
+        "user": ".fmbot",
+        "user_id": 356268235697553409,
+        "guild": "StormCaster",
+        "channel": "fmbot",
+        "message": ""
     }
 ]
