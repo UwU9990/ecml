@@ -19304,5 +19304,12 @@
         "guild": "StormCaster",
         "channel": "fmbot",
         "message": "Heh"
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "StormCaster",
+        "channel": "fmbot",
+        "message": ".fm"
     }
 ]
