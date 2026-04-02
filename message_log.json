@@ -19241,5 +19241,19 @@
         "guild": "StormCaster",
         "channel": "gen",
         "message": "yolo twin"
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "StormCaster",
+        "channel": "gen",
+        "message": "yo"
+    },
+    {
+        "user": "dalano12",
+        "user_id": 801213052589703198,
+        "guild": "Farty",
+        "channel": "staff-chat",
+        "message": ""
     }
 ]
