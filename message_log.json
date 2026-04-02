@@ -19220,5 +19220,12 @@
         "guild": "StormCaster",
         "channel": "moderator-only",
         "message": "rape"
+    },
+    {
+        "user": "kriby0368_36728",
+        "user_id": 1342630000964403340,
+        "guild": "StormCaster",
+        "channel": "welcome",
+        "message": ""
     }
 ]
