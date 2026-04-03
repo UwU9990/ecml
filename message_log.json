@@ -19661,5 +19661,12 @@
         "guild": "StormCaster",
         "channel": "Suggest a Movie or Tv series for Movie night",
         "message": "Do it"
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "StormCaster",
+        "channel": "announcements",
+        "message": "<#1489511262047043716>"
     }
 ]
