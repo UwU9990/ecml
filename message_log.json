@@ -19668,5 +19668,12 @@
         "guild": "StormCaster",
         "channel": "announcements",
         "message": "<#1489511262047043716>"
+    },
+    {
+        "user": "theonennonly.",
+        "user_id": 1468291299445702872,
+        "guild": "Farty",
+        "channel": "welcome",
+        "message": ""
     }
 ]
