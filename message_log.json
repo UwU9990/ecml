@@ -20452,5 +20452,12 @@
         "guild": "Farty",
         "channel": "VC 1",
         "message": "Unmute me pl"
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "StormCaster",
+        "channel": "fmbot",
+        "message": ".wk"
     }
 ]
