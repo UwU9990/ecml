@@ -20557,5 +20557,12 @@
         "guild": "Farty",
         "channel": "moderator-only",
         "message": "# Announcing Dyno Memberships\n\nHey everyone,  we\u2019re excited to introduce **Dyno Memberships** \ud83c\udf89\n\nAs you may know, Dyno is used by 11M+ servers, and we\u2019ve always wanted to keep it accessible to everyone. However the challenge is that only a small group of server owners purchase premium which pays for the development, infrastructure, and ongoing live operations.\n\nMemberships are our way of opening that up to anyone who wants to support Dyno. As a thank you, members receive a set of exclusive profile customizations, a small xp bonus and recognition across Dyno \ud83d\ude4c\n\nTo get started, head to the Premium section and switch to the Membership tab. You can choose from three tiers: Silver, Gold, and Diamond.\n\nEach tier includes exclusive profile card backgrounds you can use across any server with Dyno:\n\n- Silver: 10 cards\n- Gold: Silver + 10 additional cards\n- Diamond: Gold + Silver + 10 additional cards\n\nWe\u2019re also working on another set of 30 cards (10 per tier) coming soon, along with plans for community submissions (more details soon).\n\nAdditional benefits:\n\n**XP Boost**\n- Silver: 1%\n- Gold: 2%\n- Diamond: 3%\n\n**Website recognition**: your avatar will be highlighted (top right)\n\n**Diamond perk**: leaderboard entries are highlighted with your profile card background for extra visibility (coming soon)\n\nWe hope you enjoy this new feature, and we truly appreciate your support in helping us continue to build and improve Dyno.\n\nYou can find more information in the [documentation page](https://docs.dyno.gg/en/memberships). \n\nIf you have any questions, feel free to reach out in the appropriate support channel.\n\n - Team Dyno \u2665\ufe0f"
+    },
+    {
+        "user": "Carl-bot",
+        "user_id": 235148962103951360,
+        "guild": "StormCaster",
+        "channel": "server-logs",
+        "message": ""
     }
 ]
