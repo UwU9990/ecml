@@ -20613,5 +20613,12 @@
         "guild": "Farty",
         "channel": "words-from-the-dj",
         "message": "Yu"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "Farty",
+        "channel": "words-from-the-dj",
+        "message": "```ini\n[NEURAL NETWORK LOG]\nInput: \"Yu\"\nRaw_Prob: 0.88\n-------------------------\nCONFIDENCE: 92.61%\nStatus: Response Generated.\n```"
     }
 ]
