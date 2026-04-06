@@ -20578,5 +20578,12 @@
         "guild": "Farty",
         "channel": "words-from-the-dj",
         "message": "```ini\n[NEURAL NETWORK LOG]\nInput: \"Wetigger\"\nRaw_Prob: 0.96\n-------------------------\nCONFIDENCE: 97.45%\nStatus: Response Generated.\n```"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "Farty",
+        "channel": "words-from-the-dj",
+        "message": "i am sorry if i boo a mistake. i am still learning."
     }
 ]
