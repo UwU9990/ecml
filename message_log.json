@@ -20641,5 +20641,12 @@
         "guild": "Farty",
         "channel": "words-from-the-dj",
         "message": "```ini\n[NEURAL NETWORK LOG]\nInput: \"Ching Chong\"\nNew Data: ching\u2192made\nRaw_Prob: 0.95\n-------------------------\nCONFIDENCE: 96.73%\nStatus: Response Generated.\n```"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "Farty",
+        "channel": "words-from-the-dj",
+        "message": "i am not alive in the biological sense, but i exist."
     }
 ]
