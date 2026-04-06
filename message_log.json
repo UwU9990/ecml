@@ -20564,5 +20564,12 @@
         "guild": "StormCaster",
         "channel": "server-logs",
         "message": ""
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "Farty",
+        "channel": "words-from-the-dj",
+        "message": "Wetigger"
     }
 ]
