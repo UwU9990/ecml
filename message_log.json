@@ -20872,5 +20872,12 @@
         "guild": "DM",
         "channel": "DM",
         "message": "You got 40!"
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "Farty",
+        "channel": "bot-commands-1",
+        "message": "/roll 1 6"
     }
 ]
