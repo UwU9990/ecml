@@ -20802,5 +20802,12 @@
         "guild": "Farty",
         "channel": "bot-commands-1",
         "message": "Synced 33 commands globally!"
+    },
+    {
+        "user": "puro335",
+        "user_id": 1111425766622773280,
+        "guild": "DM",
+        "channel": "DM",
+        "message": "/roll 1 2"
     }
 ]
