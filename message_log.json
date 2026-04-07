@@ -20879,5 +20879,12 @@
         "guild": "Farty",
         "channel": "bot-commands-1",
         "message": "/roll 1 6"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "Farty",
+        "channel": "bot-commands-1",
+        "message": "You got 5!"
     }
 ]
