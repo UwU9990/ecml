@@ -20907,5 +20907,12 @@
         "guild": "YP CORP SERVER",
         "channel": "moderator-only",
         "message": "<@264726315859443713>/The Master of this Field"
+    },
+    {
+        "user": "7bepp",
+        "user_id": 264726315859443713,
+        "guild": "YP CORP SERVER",
+        "channel": "moderator-only",
+        "message": "<@944324351287779358>"
     }
 ]
