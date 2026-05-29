@@ -21236,5 +21236,12 @@
         "guild": "Farty",
         "channel": "general",
         "message": "Fricker"
+    },
+    {
+        "user": "skengandsins",
+        "user_id": 1505602217254719588,
+        "guild": "Farty",
+        "channel": "bot-commands-1",
+        "message": ".wk"
     }
 ]
