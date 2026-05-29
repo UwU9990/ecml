@@ -21278,5 +21278,12 @@
         "guild": "Farty",
         "channel": "general",
         "message": "did you need to go potty to say that"
+    },
+    {
+        "user": "FNAFdex",
+        "user_id": 1102493781384773722,
+        "guild": "Farty",
+        "channel": "bot-commands-1",
+        "message": "A wild animatronic has appeared!"
     }
 ]
