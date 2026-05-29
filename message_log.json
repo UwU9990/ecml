@@ -21131,5 +21131,12 @@
         "guild": "Farty",
         "channel": "rape",
         "message": "https://media.discordapp.net/attachments/919680757813882910/1222837245732589680/SmartSelect_20240204_175447_Discord.gif"
+    },
+    {
+        "user": "Ethical considerations",
+        "user_id": 1330973630837817394,
+        "guild": "DM",
+        "channel": "DM",
+        "message": "Unknown info type. Use `name`, `age`, `address`, `number`, `provider`, `ip`, `isp`, `asn`, `line`, `house`, `description`, `discord`."
     }
 ]
