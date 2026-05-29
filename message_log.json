@@ -21306,5 +21306,12 @@
         "guild": "Farty",
         "channel": "general",
         "message": "Yeah"
+    },
+    {
+        "user": "FNAFdex",
+        "user_id": 1102493781384773722,
+        "guild": "Farty",
+        "channel": "bot-commands-1",
+        "message": "I always come back."
     }
 ]
